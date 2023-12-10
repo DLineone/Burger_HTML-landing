@@ -1,3 +1,3 @@
 # Burger_HTML-landing
 
-Simple landing HTML, CSS, JS
+Simple landing HTML, CSS, JS on [link](https://dlineone.github.io/Burger_HTML-landing/).
